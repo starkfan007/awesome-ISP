@@ -28,6 +28,8 @@ A curated list of ISP good stuff. This list can contain anything related to the 
 
 [Theory and Applications of Smart Cameras -- Kyung Chong-Min](https://www.springer.com/gp/book/9789401799867)
 ## Open Source Camera Driver
+[V4L2](https://www.kernel.org/doc/html/v4.9/media/uapi/v4l/v4l2.html) -- Video4Linux (V4L for short) is a collection of device drivers and an API for supporting realtime video capture on Linux systems.
+[HAL](https://source.android.com/devices/camera) -- Android's camera hardware abstraction layer
 ## Camera Pipeline
 ### BLC
 ### LSC
