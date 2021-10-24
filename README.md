@@ -22,7 +22,6 @@ A curated list of ISP good stuff. This list can contain anything related to the 
 - [Image Quality Tuning](#image-quality-tuning)
 
 ## Tutorials, books & examples
-[ISP Pipeline](https://gitee.com/wtzhu13/ISPAlgorithmStudy)
 ### Books
 [Image sensors and signal processing for digital still cameras -- Junichi Nakamura](https://last.hit.bme.hu/download/firtha/video/Sensors/Junichi%20Nakamura%20Image%20sensors%20and%20signal%20processing%20for%20digital%20still%20cameras%20%202006.pdf)
 
