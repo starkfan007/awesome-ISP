@@ -51,10 +51,13 @@ A curated list of ISP good stuff. This list can contain anything related to the 
 ### DPC
 ### Demosaic
 [High-Quality Linear Interpolation for Demosaicing of Bayer-Patterned Color Images](https://www.microsoft.com/en-us/research/publication/high-quality-linear-interpolation-for-demosaicing-of-bayer-patterned-color-images/)
+
 [Residual Interpolation for Color Image Demosaicking](https://www.site.uottawa.ca/~edubois/CFA/)
 ### CCM
 [Camera Color Correction Toolbox](https://github.com/QiuJueqin/color-correction-toolbox)
+
 [Colour Correction Toolbox for AIC 2017 submission](https://github.com/fangfufu/Colour_Correction_Toolbox)
+
 [Compute color correction matrix](https://github.com/lighttransport/colorcorrectionmatrix)
 ### NR
 ### HDR/Tone Mapping
