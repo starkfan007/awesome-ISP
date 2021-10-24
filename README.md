@@ -8,7 +8,7 @@ A curated list of ISP good stuff. This list can contain anything related to the 
   * [Examples](#examples)
 - [Open Source Camera Driver](#open-source-camera-driver)
 - [Camera Pipeline](#camera-pipeline)
-  * [Decoding raw digital photos](#decoding-raw-digital-photos)
+  * [Raw data decoder](#raw-data-decoder)
   * [BLC](#blc)
   * [LSC](#lsc)
   * [DPC](#dpc)
@@ -39,7 +39,10 @@ A curated list of ISP good stuff. This list can contain anything related to the 
 [HAL](https://source.android.com/devices/camera) -- Android's camera hardware abstraction layer  
 [libcamera](https://github.com/kbingham/libcamera) -- A complex camera support library for Linux, Android, and ChromeOS  
 ## Camera Pipeline
-### Decoding raw digital photos
+### Raw data decoder
+[MatRaw](https://github.com/QiuJueqin/MatRaw) -- Read and Process Camera Raw Data with MATLAB  
+[dcraw](https://github.com/ncruces/dcraw) -- Decoding raw digital photos in Linux  
+[LibRaw](https://github.com/LibRaw/LibRaw) -- Library for reading and processing of RAW digicam images
 ### BLC
 ### LSC
 [lens_shading](https://github.com/6by9/lens_shading) -- Lens shading analysis tool  
