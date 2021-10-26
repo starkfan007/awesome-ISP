@@ -58,6 +58,7 @@ Colour Correction Toolbox for AIC 2017 submission [[code]](https://github.com/fa
 Compute color correction matrix [[code]](https://github.com/lighttransport/colorcorrectionmatrix)  
 ### NR
 ### HDR/Tone Mapping
+HDR Toolbox is a MATLAB/Octave toolbox for processing High Dynamic Range (HDR) content [[code]](https://github.com/banterle/HDR_Toolbox)  
 ## 3A Algorithm
 ### AE
 ### AF
