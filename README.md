@@ -50,7 +50,8 @@ lens_shading_editor -- Raspberry Pi camera lens shading table editor [[code]](ht
 ### DPC
 ### Demosaic
 High-Quality Linear Interpolation for Demosaicing of Bayer-Patterned Color Images [[code]](https://www.microsoft.com/en-us/research/publication/high-quality-linear-interpolation-for-demosaicing-of-bayer-patterned-color-images/)  
-Residual Interpolation for Color Image Demosaicking [[code]](http://www.ok.sc.e.titech.ac.jp/res/DM/RI.html)  
+Residual Interpolation for Color Image Demosaicking [[code]](http://www.ok.sc.e.titech.ac.jp/res/DM/RI.html)
+A Python package implementing various CFA (Colour Filter Array) demosaicing algorithms and related utilities. [[code]](https://github.com/colour-science/colour-demosaicing)  
 ### CCM
 Camera Color Correction Toolbox [[code]](https://github.com/QiuJueqin/color-correction-toolbox)  
 Colour Correction Toolbox for AIC 2017 submission [[code]](https://github.com/fangfufu/Colour_Correction_Toolbox)  
