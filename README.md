@@ -65,5 +65,5 @@ HDR Toolbox is a MATLAB/Octave toolbox for processing High Dynamic Range (HDR) c
 ### AWB
 A comparison of computational color constancy algorithms [[Project Page]](http://kobus.ca/research/programs/colour_constancy/)  
 Illumination Chromaticity Estimation using Inverse-intensity Chromaticity Space [[Code]](https://tanrobby.github.io/code/iic.zip) [[Project Page]](https://tanrobby.github.io/research/lightchroma/results.html)  
-Edge-Based Color Constancy [[Project Page]](https://ivi.fnwi.uva.nl/isis/publications/bibtexbrowser.php?key=vandeWeijerTIP2007&bib=all.bib)
+Edge-Based Color Constancy [[code]](http://www.cvc.uab.es/LAMP/joost/wp-content/uploads/Projects/code/ColorConstancy.zip) [[Project Page]](https://ivi.fnwi.uva.nl/isis/publications/bibtexbrowser.php?key=vandeWeijerTIP2007&bib=all.bib)  
 ## Image Quality Tuning
