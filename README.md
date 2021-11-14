@@ -44,7 +44,7 @@ CycleISP -- Real Image Restoration via Improved Data Synthesis [[code]](https://
 MatRaw -- Read and Process Camera Raw Data with MATLAB [[code]](https://github.com/QiuJueqin/MatRaw)   
 dcraw -- Decoding raw digital photos in Linux [[code]](https://github.com/ncruces/dcraw)  
 LibRaw -- Library for reading and processing of RAW digicam images [[code]](https://github.com/LibRaw/LibRaw)  
-Adobe DNG SDK -- The Adobe DNG SDK provides support for reading and writing DNG files as well as support for converting DNG data into a format easily displayed or processed by imaging applications [[code]] (https://helpx.adobe.com/security/products/dng-sdk.html#Version15)
+Adobe DNG SDK -- The Adobe DNG SDK provides support for reading and writing DNG files as well as support for converting DNG data into a format easily displayed or processed by imaging applications [[code]](https://helpx.adobe.com/security/products/dng-sdk.html#Version15)
 ### BLC
 ### LSC
 lens_shading -- Lens shading analysis tool [[code]](https://github.com/6by9/lens_shading)  
