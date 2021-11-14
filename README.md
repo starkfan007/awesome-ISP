@@ -19,7 +19,7 @@ A curated list of ISP good stuff. This list can contain anything related to the 
   * [CSC](#csc)
   * [NR](#nr)
   * [HDR/Tone Mapping](#hdr-tone-mapping)
-- [Color Science](# color-science)
+- [Color Science](#color-science)
 - [Image Quality Tuning](#image-quality-tuning)
 
 ## Tutorials, books & examples
