@@ -52,7 +52,7 @@ lens_shading_editor -- Raspberry Pi camera lens shading table editor [[code]](ht
 ### DPC
 ### AWB
 A comparison of computational color constancy algorithms [[Project Page]](http://kobus.ca/research/programs/colour_constancy/)  
-Computational Color Constancy: Survey and Experiments [Paper](https://staff.fnwi.uva.nl/th.gevers/pub/GeversTIP11.pdf)
+Computational Color Constancy: Survey and Experiments [[Paper]](https://staff.fnwi.uva.nl/th.gevers/pub/GeversTIP11.pdf)  
 Illumination Chromaticity Estimation using Inverse-intensity Chromaticity Space [[Code]](https://tanrobby.github.io/code/iic.zip) [[Project Page]](https://tanrobby.github.io/research/lightchroma/results.html)  
 Edge-Based Color Constancy [[code]](https://github.com/lynnprosper/Edge-Based-Color-Constancy) [[Project Page]](https://ivi.fnwi.uva.nl/isis/publications/bibtexbrowser.php?key=vandeWeijerTIP2007&bib=all.bib)  
 ### Demosaic
