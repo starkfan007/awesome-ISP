@@ -24,7 +24,7 @@ A curated list of ISP good stuff. This list can contain anything related to the 
 
 ## Courses, books & examples
 ### Courses
-Stanford CS448A -- Computational photography[Project Page](http://graphics.stanford.edu/courses/cs448a-10/)  
+Stanford CS448A -- Computational photography [[Project Page]](http://graphics.stanford.edu/courses/cs448a-10/)  
 ### Books
 [Image sensors and signal processing for digital still cameras -- Junichi Nakamura](https://last.hit.bme.hu/download/firtha/video/Sensors/Junichi%20Nakamura%20Image%20sensors%20and%20signal%20processing%20for%20digital%20still%20cameras%20%202006.pdf)  
 [Image Processing for Embedded Devices -- Sebastiano Battiato](https://books.google.com/books/about/Image_Processing_for_Embedded_Devices.html?id=K5aOhnvGJToC)  
@@ -66,20 +66,19 @@ Colour Correction Toolbox for AIC 2017 submission [[code]](https://github.com/fa
 Compute color correction matrix [[code]](https://github.com/lighttransport/colorcorrectionmatrix)  
 ### NR
 #### Filtering
-Bilatral filter
-- A Gentle Introduction to Bilateral Filtering and its Applications. Paris et al. SIGGRAPH 2008 Course Notes  
-- A Fast Approximation of the Bilateral Filter using a Signal Processing Approach. Paris and Durand. MIT Tech Report 2006 (extends their ECCV 2006 paper)
-Guided filter
-- Guided image filtering(ECCV 2010).  Kaiming He et al.  
-- Fast Guided Filter.  Kaiming He et al.
-NLM
-- A non-local algorithm for image denoising (CVPR 05), Buades et al.  
-- Image denoising based on non-local means filter and its method noise thresholding (SIVP2013), B. Kumar
-BM3D
-- Image restoration by sparse 3D transform-domain collaborative filtering (SPIE Electronic Imaging 2008), Dabov et al.
+- Bilatral filter
+    - A Gentle Introduction to Bilateral Filtering and its Applications. Paris et al. SIGGRAPH 2008 Course Notes  
+    - A Fast Approximation of the Bilateral Filter using a Signal Processing Approach. Paris and Durand. MIT Tech Report 2006 (extends their ECCV 2006 paper)
+- Guided filter
+    - Guided image filtering(ECCV 2010).  Kaiming He et al.  
+    - Fast Guided Filter.  Kaiming He et al.
+- NLM
+    - A non-local algorithm for image denoising (CVPR 05), Buades et al.  
+    - Image denoising based on non-local means filter and its method noise thresholding (SIVP2013), B. Kumar
+- BM3D
+    - Image restoration by sparse 3D transform-domain collaborative filtering (SPIE Electronic Imaging 2008), Dabov et al.
 #### Deep denoising
-DnCNN 
-- Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP2017), Zhang et al.
+- DnCNN 
+    - Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP2017), Zhang et al.
 ### HDR/Tone Mapping
 HDR Toolbox is a MATLAB/Octave toolbox for processing High Dynamic Range (HDR) content [[code]](https://github.com/banterle/HDR_Toolbox)  
-## Image Quality Tuning
