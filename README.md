@@ -64,7 +64,7 @@ A Python package implementing various CFA (Colour Filter Array) demosaicing algo
 Camera Color Correction Toolbox [[code]](https://github.com/QiuJueqin/color-correction-toolbox)  
 Colour Correction Toolbox for AIC 2017 submission [[code]](https://github.com/fangfufu/Colour_Correction_Toolbox)  
 Compute color correction matrix [[code]](https://github.com/lighttransport/colorcorrectionmatrix)  
-### NR
+### NR(Code coming soon...)
 #### Filtering
 - Bilatral filter
     - A Gentle Introduction to Bilateral Filtering and its Applications. Paris et al. SIGGRAPH 2008 Course Notes  
