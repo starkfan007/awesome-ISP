@@ -10,6 +10,7 @@ A curated list of ISP good stuff. This list can contain anything related to the 
 - [Camera Pipeline](#camera-pipeline)
   * [End to End Piepeline](#end-to-end-pipeline)
   * [Raw data decoder](#raw-data-decoder)
+  * [AE](#ae)
   * [BLC](#blc)
   * [LSC](#lsc)
   * [DPC](#dpc)
@@ -46,6 +47,8 @@ MatRaw -- Read and Process Camera Raw Data with MATLAB [[code]](https://github.c
 dcraw -- Decoding raw digital photos in Linux [[code]](https://github.com/ncruces/dcraw)  
 LibRaw -- Library for reading and processing of RAW digicam images [[code]](https://github.com/LibRaw/LibRaw)  
 Adobe DNG SDK -- The Adobe DNG SDK provides support for reading and writing DNG files as well as support for converting DNG data into a format easily displayed or processed by imaging applications [[code]](https://helpx.adobe.com/security/products/dng-sdk.html#Version15)
+### AE
+Automatic Camera Exposure Control. N. Nourani-Vatani, J. Roberts [[code]](https://github.com/alexzzhu/auto_exposure_control)
 ### BLC
 ### LSC
 lens_shading -- Lens shading analysis tool [[code]](https://github.com/6by9/lens_shading)  
