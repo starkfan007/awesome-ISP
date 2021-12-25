@@ -42,6 +42,8 @@ libcamera -- A complex camera support library for Linux, Android, and ChromeOS [
 ## Camera Pipeline
 ### End to End Pipeline
 CycleISP -- Real Image Restoration via Improved Data Synthesis [[code]](https://github.com/swz30/CycleISP)  
+MW-ISPNet -- Multi-level Wavelet Network [[code]](https://github.com/cszhilu1998/MW-ISPNet)  
+PyNET -- Replacing Mobile Camera ISP with a Single Deep Learning Model [[code]](https://github.com/aiff22/PyNET-PyTorch)
 ### Raw data decoder
 MatRaw -- Read and Process Camera Raw Data with MATLAB [[code]](https://github.com/QiuJueqin/MatRaw)   
 dcraw -- Decoding raw digital photos in Linux [[code]](https://github.com/ncruces/dcraw)  
