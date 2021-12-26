@@ -71,8 +71,8 @@ Colour Correction Toolbox for AIC 2017 submission [[code]](https://github.com/fa
 Compute color correction matrix [[code]](https://github.com/lighttransport/colorcorrectionmatrix)  
 ### NR(Code coming soon...)
 #### Noise model and estimation
-Noise, Dynamic Range and Bit Depth in Digital SLRs [[Web Page]](https://homes.psd.uchicago.edu/~ejmartin/pix/20d/tests/noise/)
-A blog of Camera Noise [[WebPage]](https://zhuanlan.zhihu.com/p/23868867)
+-Noise, Dynamic Range and Bit Depth in Digital SLRs [[Web Page]](https://homes.psd.uchicago.edu/~ejmartin/pix/20d/tests/noise/)  
+-A blog of Camera Noise [[WebPage]](https://zhuanlan.zhihu.com/p/23868867)
 #### Filtering
 - Bilatral filter
     - A Gentle Introduction to Bilateral Filtering and its Applications. Paris et al. SIGGRAPH 2008 Course Notes  
