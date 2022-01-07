@@ -62,17 +62,19 @@ Automatic Camera Exposure Control. N. Nourani-Vatani, J. Roberts [[code]](https:
 ### AWB
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Gray World & 2D and 3D gamut mapping & ...| [TIP 02](https://ieeexplore.ieee.org/document/1036047) & [TIP 02] (https://ieeexplore.ieee.org/document/1036048)         | [C++](http://kobus.ca/research/programs/colour_constancy/)              | A comparison of color constancy algorithms      | 
+| Gray World & gamut mapping & ...| [TIP 02](https://ieeexplore.ieee.org/document/1036047) | [C++](http://kobus.ca/research/programs/colour_constancy/)              | A comparison of color constancy algorithms      | 
 |                | [TIP 11](https://staff.fnwi.uva.nl/th.gevers/pub/GeversTIP11.pdf)            |               | Computational Color Constancy Survey and Experiments |
 ### Demosaic
-High-Quality Linear Interpolation for Demosaicing of Bayer-Patterned Color Images [[code]](https://www.microsoft.com/en-us/research/publication/high-quality-linear-interpolation-for-demosaicing-of-bayer-patterned-color-images/)  
-Residual Interpolation for Color Image Demosaicking [[code]](http://www.ok.sc.e.titech.ac.jp/res/DM/RI.html)  
-A Python package implementing various CFA (Colour Filter Array) demosaicing algorithms and related utilities. [[code]](https://github.com/colour-science/colour-demosaicing)  
+| Model                  | Published                                                    | Code                                                         | Keywords                                                     |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Linear Interpolation | [ICASSP 04](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Demosaicing_ICASSP04.pdf) |              | High-Quality Linear Interpolation      | 
+| Residual Interpolation              | [ICIP 13](http://www.ok.sc.e.titech.ac.jp/res/DM/RI.html)            |  [matlab](http://www.ok.sc.e.titech.ac.jp/res/DM/RI.html)             |  | 
+| Directional Filtering and a posteriori Decision              | [TIP 07](http://elynxsdk.free.fr/ext-docs/Demosaicing/todo/Menon_Andriani_IEEE_T_IP_2007.pdf)            |  [Python](https://github.com/colour-science/colour-demosaicing)             |  | 
 ### CCM
-|  Title  | published  | code |
-|  ----  | ---- | ---- |
-| Camera Color Correction Toolbox  | site |[code](https://github.com/QiuJueqin/color-correction-toolbox) |
-| Colour Correction Toolbox for AIC 2017 submission  | site | [code](https://github.com/fangfufu/Colour_Correction_Toolbox) |
+| Model                  | Published                                                    | Code                                                         | Keywords                                                     |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Root/Polynomial | [TIP 15](https://eprints.ncl.ac.uk/file_store/production/211896/56A5026C-F3B9-4CB9-9A51-10F304877B45.pdf) | [matlab](https://github.com/QiuJueqin/color-correction-toolbox)  |  | 
+| Colour Correction Toolbox | [AIC 17](https://ueaeprints.uea.ac.uk/id/eprint/65098/4/Colour_Correction_Toolbox.pdf)            |  [matlab](https://github.com/fangfufu/Colour_Correction_Toolbox)             | Multi algorithm integration | 
 ### NR(Code coming soon...)
 #### Noise model and estimation
 Noise, Dynamic Range and Bit Depth in Digital SLRs [[Web Page]](https://homes.psd.uchicago.edu/~ejmartin/pix/20d/tests/noise/)  
