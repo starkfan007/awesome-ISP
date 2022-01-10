@@ -97,4 +97,8 @@ A blog of Camera Noise [[WebPage]](https://zhuanlan.zhihu.com/p/23868867)
 - DnCNN 
     - Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP2017), Zhang et al.
 ### HDR/Tone Mapping
-HDR Toolbox is a MATLAB/Octave toolbox for processing High Dynamic Range (HDR) content [[code]](https://github.com/banterle/HDR_Toolbox)  
+| Model                  | Published                                                    | Code                                                         | Keywords                                                     |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Local Laplacian Filters | [SIGGRAPH 11](http://people.csail.mit.edu/sparis/publi/2011/siggraph/) | [matlab](http://people.csail.mit.edu/sparis/publi/2011/siggraph/) |       | 
+| Advanced High Dynamic Range Imaging | [Book 17](https://dl.acm.org/doi/10.5555/3165066) | [matlab](https://github.com/banterle/HDR_Toolbox) | HDR Toolbox | 
+
