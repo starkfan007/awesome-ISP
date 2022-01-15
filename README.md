@@ -60,10 +60,18 @@ Automatic Camera Exposure Control. N. Nourani-Vatani, J. Roberts [[code]](https:
 |               |             | [C](https://github.com/6by9/lens_shading)              | Lens shading analysis tool      | 
 |               |             | [Qt](https://github.com/dridri/lens_shading_editor)              | Raspberry Pi camera lens shading table editor      |  
 ### AWB
+- Survey
+
+| Published                                                    |  Keywords                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [TIP 11](https://staff.fnwi.uva.nl/th.gevers/pub/GeversTIP11.pdf)            | Computational Color Constancy Survey and Experiments |
+- Low-Level Statistics-Based Methods
+
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Gray World & gamut mapping & ...| [TIP 02](https://ieeexplore.ieee.org/document/1036047) | [C++](http://kobus.ca/research/programs/colour_constancy/)              | A comparison of color constancy algorithms      | 
-|                | [TIP 11](https://staff.fnwi.uva.nl/th.gevers/pub/GeversTIP11.pdf)            |               | Computational Color Constancy Survey and Experiments |
+| | [TIP 02](https://ieeexplore.ieee.org/document/1036047) | [C++](http://kobus.ca/research/programs/colour_constancy/)              | A comparison of color constancy algorithms      | 
+
+- Characterized-Based Methods
 ### Demosaic
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
