@@ -88,11 +88,10 @@ Automatic Camera Exposure Control. N. Nourani-Vatani, J. Roberts [[code]](https:
 
 #### Noise model and estimation
 Noise, Dynamic Range and Bit Depth in Digital SLRs [[Web Page]](https://homes.psd.uchicago.edu/~ejmartin/pix/20d/tests/noise/)  
-A blog of Camera Noise [[WebPage]](https://zhuanlan.zhihu.com/p/23868867)
+A blog of Camera Noise [[Web Page]](https://zhuanlan.zhihu.com/p/23868867)
 #### Filtering
 - Bilatral filter
-    - A Gentle Introduction to Bilateral Filtering and its Applications. Paris et al. SIGGRAPH 2008 Course Notes  
-    - A Fast Approximation of the Bilateral Filter using a Signal Processing Approach. Paris and Durand. MIT Tech Report 2006 (extends their ECCV 2006 paper)
+    - A Gentle Introduction to Bilateral Filtering and its Applications. Paris et al. SIGGRAPH 2008 Course Notes. [[code]](https://people.csail.mit.edu/sparis/bf_survey/)  
 - Guided filter
     - Guided image filtering(ECCV 2010).  Kaiming He et al.  
     - Fast Guided Filter.  Kaiming He et al.
