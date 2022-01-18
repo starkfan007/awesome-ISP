@@ -28,8 +28,6 @@ A curated list of ISP good stuff. This list can contain anything related to the 
 Stanford CS448A -- Computational photography [[Project Page]](http://graphics.stanford.edu/courses/cs448a-10/)  
 ### Books
 Image sensors and signal processing for digital still cameras -- Junichi Nakamura [[pdf]](https://last.hit.bme.hu/download/firtha/video/Sensors/Junichi%20Nakamura%20Image%20sensors%20and%20signal%20processing%20for%20digital%20still%20cameras%20%202006.pdf)  
-Image Processing for Embedded Devices -- Sebastiano Battiato [[pdf]](https://books.google.com/books/about/Image_Processing_for_Embedded_Devices.html?id=K5aOhnvGJToC)  
-Theory and Applications of Smart Cameras -- Kyung Chong-Min [[pdf]](https://www.springer.com/gp/book/9789401799867)  
 ### Examples
 openISP -- Open Image Signal Processor [[code]](https://github.com/cruxopen/openISP)  
 fast-openISP -- Fast Open Image Signal Processor [[code]](https://github.com/QiuJueqin/fast-openISP)  
