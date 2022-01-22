@@ -50,7 +50,8 @@ Adobe DNG SDK -- The Adobe DNG SDK provides support for reading and writing DNG 
 | MW-ISPNet              | [AIM 20](https://www.researchgate.net/publication/348895624_AIM_2020_Challenge_on_Learned_Image_Signal_Processing_Pipeline)            | [Pytorch](https://github.com/cszhilu1998/MW-ISPNet)              | Multi-level Wavelet Network |
 | PyNET               | [CVPR 20](https://arxiv.org/pdf/1910.06663.pdf)            | [Pytorch](https://github.com/aiff22/PyNET-PyTorch)              | Replacing Mobile Camera ISP with a Single Deep Learning Model      | 
 ### AE
-Automatic Camera Exposure Control. N. Nourani-Vatani, J. Roberts [[code]](https://github.com/alexzzhu/auto_exposure_control)
+Simatest -- Simatest is designed to simulate exposures of a 'scene' made with a virtual camera. [[code]](https://github.com/imatest/simatest)  
+Automatic Camera Exposure Control. [[code]](https://github.com/alexzzhu/auto_exposure_control)
 ### LSC
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
