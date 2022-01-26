@@ -33,6 +33,7 @@ openISP -- Open Image Signal Processor [[code]](https://github.com/cruxopen/open
 fast-openISP -- Fast Open Image Signal Processor [[code]](https://github.com/QiuJueqin/fast-openISP)  
 camera-pipeline -- A Software Platform for Manipulating the Camera Imaging Pipeline [[code]](https://karaimer.github.io/camera-pipeline/)  
 ISP Pipeline -- Algorithms of ISP Pipeline [[code]](https://gitee.com/wtzhu13/ISPAlgorithmStudy)  
+ISP-pipeline-hdrplus -- An open source (C / C + +) image algorithm library [[code]](https://github.com/jhfmat/ISP-pipeline-hdrplus)
 ## Open Source Camera Driver
 V4L2 -- Video4Linux (V4L for short) is a collection of device drivers and an API for supporting realtime video capture on Linux systems [[code]](https://www.kernel.org/doc/html/v4.9/media/uapi/v4l/v4l2.html)  
 HAL -- Android's camera hardware abstraction layer [[code]](https://source.android.com/devices/camera)  
