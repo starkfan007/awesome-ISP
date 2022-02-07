@@ -75,7 +75,7 @@ Automatic Camera Exposure Control. [[code]](https://github.com/alexzzhu/auto_exp
 
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-- |Fast Fourier Color Constancy | [CVPR 17](https://arxiv.org/abs/1611.07596) | [Matlab](https://github.com/google/ffcc)              | The Fast Fourier Color Constancy (FFCC) Matlab Toolbox  | 
+|Fast Fourier Color Constancy | [CVPR 17](https://arxiv.org/abs/1611.07596) | [Matlab](https://github.com/google/ffcc)              | The Fast Fourier Color Constancy (FFCC) Matlab Toolbox  | 
 
 ### Demosaic
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
