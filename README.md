@@ -69,7 +69,8 @@ Automatic Camera Exposure Control. [[code]](https://github.com/alexzzhu/auto_exp
 
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| | [TIP 02](https://ieeexplore.ieee.org/document/1036047) | [C++](http://kobus.ca/research/programs/colour_constancy/)              | A comparison of color constancy algorithms      | 
+| | [TIP 02](https://ieeexplore.ieee.org/document/1036047) | [C++](http://kobus.ca/research/programs/colour_constancy/)              | A comparison of color constancy algorithms      |  
+|Fast Fourier Color Constancy | [CVPR 17](https://arxiv.org/abs/1611.07596) | [Matlab](https://github.com/google/ffcc)              | The Fast Fourier Color Constancy (FFCC) Matlab Toolbox  | 
 
 - Characterized-Based Methods
 ### Demosaic
