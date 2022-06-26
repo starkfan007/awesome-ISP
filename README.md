@@ -94,6 +94,8 @@ Automatic Camera Exposure Control. [[code]](https://github.com/alexzzhu/auto_exp
 #### Noise model and estimation
 Noise, Dynamic Range and Bit Depth in Digital SLRs [[Web Page]](https://homes.psd.uchicago.edu/~ejmartin/pix/20d/tests/noise/)  
 A blog of Camera Noise [[Web Page]](https://zhuanlan.zhihu.com/p/23868867)
+Practical Deep Raw Image Denoising on Mobile Devices [[ECCV 2020]](https://arxiv.org/abs/2010.06935)
+A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising [[cvpr 2020]](https://arxiv.org/abs/2003.12751)
 #### Filtering
 - Bilatral filter
     - A Gentle Introduction to Bilateral Filtering and its Applications. Paris et al. SIGGRAPH 2008 Course Notes. [[code]](https://people.csail.mit.edu/sparis/bf_survey/)  
@@ -108,6 +110,9 @@ A blog of Camera Noise [[Web Page]](https://zhuanlan.zhihu.com/p/23868867)
 #### Deep denoising
 - DnCNN 
     - Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (TIP2017), Zhang et al.
+- RGB_Unprocess
+    - Unprocessing Images for Learned Raw Denoising [[paper]](https://arxiv.org/abs/1811.11127)
+    - Invertible Image Signal Processing [[paper]](https://arxiv.org/abs/2103.15061)
 ### HDR/Tone Mapping
 | Model                  | Published                                                    | Code                                                         | Keywords                                                     |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
