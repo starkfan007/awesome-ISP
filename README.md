@@ -93,8 +93,8 @@ Automatic Camera Exposure Control. [[code]](https://github.com/alexzzhu/auto_exp
 
 #### Noise model and estimation
 Noise, Dynamic Range and Bit Depth in Digital SLRs [[Web Page]](https://homes.psd.uchicago.edu/~ejmartin/pix/20d/tests/noise/)  
-A blog of Camera Noise [[Web Page]](https://zhuanlan.zhihu.com/p/23868867)
-Practical Deep Raw Image Denoising on Mobile Devices [[ECCV 2020]](https://arxiv.org/abs/2010.06935)
+A blog of Camera Noise [[Web Page]](https://zhuanlan.zhihu.com/p/23868867)  
+Practical Deep Raw Image Denoising on Mobile Devices [[ECCV 2020]](https://arxiv.org/abs/2010.06935)  
 A Physics-based Noise Formation Model for Extreme Low-light Raw Denoising [[cvpr 2020]](https://arxiv.org/abs/2003.12751)
 #### Filtering
 - Bilatral filter
